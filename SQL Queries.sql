@@ -71,15 +71,3 @@ SELECT* FROM Incomplete_Rides_With_Reasons;
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
