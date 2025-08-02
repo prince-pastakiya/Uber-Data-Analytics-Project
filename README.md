@@ -1,37 +1,81 @@
-![Screenshot 2025-02-10 184627](https://github.com/user-attachments/assets/24c4b3a4-8223-4bf7-ab49-1f30c7b80c3b)
+# Uber Ride Analytics Power BI Project 🚗📊
 
+Welcome to the **Uber Ride Analytics Project**  
+This project focuses on analyzing Uber ride data using **SQL** and **Power BI** to extract actionable business insights and visualize user and driver behavior.
 
-This project involves analyzing Uber ride data using SQL and Power BI to uncover key insights, identify trends, and create visualizations to help understand business performance and user behavior. The goal of this analysis is to provide a comprehensive view of ride volume, customer and driver behavior, and payment trends, along with actionable insights for improving service quality and operational efficiency.
+---
 
-Technologies Used:
+## 📖 Project Overview
 
-SQL: For writing queries and extracting meaningful insights from the ride dataset.
-Power BI: For building interactive dashboards and data visualizations to present findings.
+![Uber Data Analytics](https://github.com/user-attachments/assets/24c4b3a4-8223-4bf7-ab49-1f30c7b80c3b)
 
+The goal of this project is to uncover trends and patterns from Uber ride data, such as:
+- Ride volumes
+- Customer & driver behaviors
+- Cancellation reasons
+- Payment method preferences
+- Revenue performance
 
-SQL Queries and Objectives:
+This analysis supports operational improvements, customer experience enhancements, and data-driven decision-making.
 
-Retrieve all successful bookings – Identify completed rides to measure overall service success.
-Calculate average ride distance per vehicle type – Understand distance patterns across vehicle categories.
-Total number of customer-canceled rides – Gauge customer behavior and cancellation trends.
-Top 5 customers by the number of rides booked – Identify loyal and high-value customers.
-Rides canceled by drivers due to personal or car-related issues – Assess driver-related challenges.
-Maximum and minimum driver ratings for Prime Sedan bookings – Track driver performance trends.
-Retrieve rides paid via UPI – Analyze payment behavior trends.
-Average customer ratings per vehicle type – Monitor customer satisfaction levels.
-Total booking value for successful rides – Evaluate the revenue generated from completed rides.
-List all incomplete rides with reasons – Provide transparency into ride failure patterns.
+---
 
+## 🛠️ Tools & Technologies
 
-Power BI Dashboards and Insights:
+- **SQL**: Used for querying, aggregating, and filtering ride data to generate KPIs.
+- **Power BI**: Used for building interactive dashboards and visual storytelling.
+- **DAX**: For creating calculated columns, measures, and performance metrics.
+- **Power Query**: For data transformation and shaping before visualization.
 
-Ride Volume Over Time – Track ride demand trends.
-Booking Status Breakdown – Analyze the proportion of successful, incomplete, and canceled rides.
-Top 5 Vehicle Types by Ride Distance – Identify vehicle types with the highest ride distances.
-Average Customer Ratings by Vehicle Type – Measure customer satisfaction across vehicle categories.
-Cancellation Reasons Analysis – Visualize and categorize ride cancellation causes.
-Revenue by Payment Method – Identify the most popular payment methods.
-Top 5 Customers by Total Booking Value – Recognize high-value customers.
-Ride Distance Distribution per Day – Analyze ride patterns by day.
-Driver Ratings Distribution – Visualize the spread of driver ratings for performance tracking.
-Customer vs. Driver Ratings – Compare customer feedback with driver performance ratings.
+---
+
+## 🧠 SQL Queries & Business Objectives
+
+The following SQL queries were written to extract key business insights:
+
+- Retrieve all successful bookings to measure completion rates.
+- Calculate average ride distance per vehicle type.
+- Count customer-canceled rides to analyze cancellation behavior.
+- Identify the top 5 customers by ride volume.
+- Track rides canceled by drivers due to personal or vehicle-related issues.
+- Get max/min driver ratings for Prime Sedan bookings.
+- Retrieve rides paid via UPI for payment method analysis.
+- Calculate average customer ratings per vehicle type.
+- Compute total booking value for successful rides.
+- List all incomplete rides with reasons to uncover failure patterns.
+
+---
+
+## 📊 Power BI Dashboards & Visual Insights
+
+Key visuals and analytics built in Power BI include:
+
+- **📈 Ride Volume Over Time** – Understand trends in booking demand.
+- **✅ Booking Status Breakdown** – Compare successful, incomplete, and canceled rides.
+- **🚘 Top 5 Vehicle Types by Ride Distance** – Discover which vehicle categories drive the most miles.
+- **⭐ Average Customer Ratings by Vehicle Type** – Assess customer satisfaction by category.
+- **❌ Cancellation Reasons Analysis** – Visualize and categorize cancellation causes.
+- **💳 Revenue by Payment Method** – Monitor popular and high-value payment modes.
+- **🏅 Top 5 Customers by Booking Value** – Identify loyal, high-revenue customers.
+- **📅 Ride Distance Distribution per Day** – Detect daily ride pattern trends.
+- **🧑‍✈️ Driver Ratings Distribution** – Track driver performance across different segments.
+- **👥 Customer vs. Driver Ratings** – Compare satisfaction metrics from both sides.
+
+---
+
+## 🎯 Project Highlights
+
+- Created a full data pipeline from SQL query logic to interactive Power BI dashboards.
+- Delivered real-time, filterable insights on customer satisfaction, ride trends, and revenue.
+- Applied business intelligence techniques to simulate stakeholder-ready reporting.
+- Focused on both operational transparency and strategic decision support.
+
+---
+
+## 🙌 Let's Connect
+
+Feel free to connect or reach out!
+
+📧 [princepastakiya@gmail.com]  
+🌐 [LinkedIn](https://www.linkedin.com/in/prince-pastakiya/)  
+📁 [My Portfolio](https://prince-pastakiya-portfolio.vercel.app/)
